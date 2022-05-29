@@ -2,7 +2,8 @@
 LJ Inventory design edited QBCore
 
 # Preview:
-- https://cdn.discordapp.com/attachments/921208909115564044/980521569057132594/unknown.png
+![image](https://user-images.githubusercontent.com/89866234/170887269-d832aeb2-9ccc-4fea-b6db-fec3520a4cf4.png)
+
 
 # Original script:
 - https://github.com/loljoshie/lj-inventory
